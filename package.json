@@ -1,0 +1,13 @@
+{
+  "name": "simple-blog",
+  "version": "1.0.0",
+  "description": "A simple static blogging website",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
